@@ -1,6 +1,7 @@
 package com.smart.entities;
 
 import javax.persistence.*;
+import javax.validation.*;
 import javax.persistence.GenerationType;
 
 @Entity
